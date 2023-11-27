@@ -10,7 +10,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 
 // Updated PDF link
 const resumeLink =
-  "https://raw.githubusercontent.com/Tuan33/Portfolio/master/CVofHuyTuan.pdf";
+  "https://raw.githubusercontent.com/Tuan33/Portfolio/master/CVHuyTuan.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
